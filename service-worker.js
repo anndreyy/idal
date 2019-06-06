@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/idal/precache-manifest.a17deb5857a3d7ed28bd70cbbd89b273.js"
+  "/jobs/idal/precache-manifest.d14acbb1031f0554aefb3aa45a03ad7b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "idal"});
